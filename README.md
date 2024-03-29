@@ -1,6 +1,5 @@
 # Module_5_IKAADA488_BCL2401_GroupB_IkanyengAdams_JSL05
 
-# Module_5_IKAADA488_BCL2401_GroupB_IkanyengAdams_JSL05Guardians' Music Playlists
 This project generates music playlists for each Guardian based on their preferred genre.
 
 Table of Contents
